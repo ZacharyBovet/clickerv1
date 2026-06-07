@@ -1,7 +1,7 @@
 let size = 100;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1000, 1000);
 }
 
 function draw() {
