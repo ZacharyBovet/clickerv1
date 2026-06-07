@@ -7,7 +7,7 @@ function setup() {
 function draw() {
   background(220);
   
-  translate(300, 300);
+  translate(500, 500);
   circle(0, 0, size);
 
 }
